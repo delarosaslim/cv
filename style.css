@@ -1,0 +1,17 @@
+body{
+    background-color: bisque;
+}
+h3{
+    color: blueviolet;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    height: 2px;
+    width: 10%;
+    border-width: 6px;
+    border-color: grey;
+}
+h1{
+    color: blueviolet;
+}
